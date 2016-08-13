@@ -1,6 +1,8 @@
 \newpage
 
-# 0. Introducció
+# Introducció
+
+![Continguts principals de la unitat](0.png)
 
 **Any 409**: Els visigots van arribar a la península Ibèrica com aliats de Roma per a expulsar els invasors.
 
@@ -8,7 +10,9 @@
 
 **Any 554**: Establixen la capital del regne a Toledo, n'estaran 200 anys.
 
-# 1. Organització del regne
+# Organització del regne
+
+![El regne visigot](1.png)
 
 Característiques del regne visigot:
 
@@ -20,4 +24,5 @@ Característiques del regne visigot:
 
 Visigots a València: llegir.
 
-![0](0.png)
+![Bizanci](2.png)
+
