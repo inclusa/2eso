@@ -13,7 +13,7 @@ Cal tenir instal·lat `Pandoc`, `LaTeX` i `Beamer`.
 
 ## [Unitat 1](unit_01/md/2eso_medi_ud1.pdf)
 
-- [X] Crear codi font a partir de continguts en Markdon
+- [X] Crear codi font a partir de continguts en [Markdown](http://joedicastro.com/pages/markdown.html)
 
 - [X] Crear mapa mental amb [XMind](http://www.xmind.net/)
 
