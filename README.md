@@ -3,6 +3,7 @@ Materials sintetitzats de geografia i història de 2n d'ESO
 
 [![Pandoc](https://img.shields.io/badge/pandoc-1.17.2-blue.svg)](http://pandoc.org/)
 [![Beamer](https://img.shields.io/badge/beamer-3.36-blue.svg)](http://www.ctan.org/pkg/beamer)
+[![Markdown](https://img.shields.io/badge/markdon-1.0.1-blue.svg)](https://daringfireball.net/projects/markdown/)
 
 Cal tenir instal·lat `Pandoc`, `LaTeX` i `Beamer`.
 
