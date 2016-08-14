@@ -6,7 +6,7 @@ Materials sintetitzats de geografia i història de 2n d'ESO
 
 Cal tenir instal·lat `Pandoc`, `LaTeX` i `Beamer`.
 
-## Com generar l'arxiu PDF a partir del arxius MD.
+## Generar l'arxiu PDF a partir dels arxius escrits en Markdown
 
 `$ pandoc -t beamer 00_intro.md 01_visigot.md 02_bizanci.md 03_carlemany.md 04_islam.md -o 2eso_medi_ud1.pdf`
 
