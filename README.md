@@ -1,4 +1,4 @@
-# 2eso_gh
+# 2eso
 Materials sintetitzats de geografia i història de 2n d'ESO
 
 [![Pandoc](https://img.shields.io/badge/pandoc-1.17.2-blue.svg)](http://pandoc.org/)
@@ -17,8 +17,22 @@ Resultat: [Unitat 1](unit_01/md/2eso_medi_ud1.pdf)
 
 Resultat: [Unitat 1](unit_01/md/2eso_medi_ud1_.pdf)
 
+## Pla de treball Unitat 1
+
 - [X] Crear codi font a partir de continguts en [Markdown](http://joedicastro.com/pages/markdown.html)
 
 - [X] Crear mapa mental amb [XMind](http://www.xmind.net/)
 
 - [X] Generar presentació en PDF a partir de codi font mitjançant [Pandoc](http://pandoc.org/) i [Beamer](https://bitbucket.org/rivanvx/)
+
+## Pla de treball Unitat 2
+
+- [ ] Crear codi font a partir dels continguts, cal fer una anàlisi del tema
+
+- [ ] Crear mapa mental per ajudar a analitzar i estructurar el contingut
+
+- [ ] Establir l'estructura dels continguts: Teoria, continguts específics (el camp, la ciutat, la cultura i l'art)
+
+- [ ] Crear un vocabulari
+
+- [ ] Fer presentació amb els continguts per memoritzar
