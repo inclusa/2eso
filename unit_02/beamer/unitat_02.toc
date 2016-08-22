@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{0. Introducci\IeC {\'o}}{2}{0}{1}
+\beamer@sectionintoc {2}{1. Expansi\IeC {\'o} de l'Islam}{7}{0}{2}
+\beamer@sectionintoc {3}{1.1. Etapes}{9}{0}{3}
+\beamer@sectionintoc {4}{2. Explendor econ\IeC {\`o}mica i cultural}{11}{0}{4}
