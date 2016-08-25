@@ -27,12 +27,12 @@ Resultat: [Unitat 1](unit_01/md/2eso_medi_ud1_.pdf)
 
 ## Pla de treball Unitat 2
 
-- [ ] Crear codi font a partir dels continguts, cal fer una anàlisi del tema
+- [X] Crear codi font a partir dels continguts, cal fer una anàlisi del tema
 
 - [ ] Crear mapa mental per ajudar a analitzar i estructurar el contingut
 
-- [ ] Establir l'estructura dels continguts: Teoria, continguts específics (el camp, la ciutat, la cultura i l'art)
+- [X] Establir l'estructura dels continguts: Teoria, continguts específics (el camp, la ciutat, la cultura i l'art)
 
 - [ ] Crear un vocabulari
 
-- [ ] Fer presentació amb els continguts per memoritzar
+- [X] Fer presentació amb els continguts per memoritzar
