@@ -1,21 +1,20 @@
 # Vocabulari
 
-<<<<<<< HEAD
-**Call**: Els calls o jueries eren les zones habitades antigament per jueus als Països Catalans. El nom prové de l'hebreu Qahal, «comunitat», potser per influència del llatí callis, «pas estret entre dues parets».
+- **Call**: Els calls o jueries eren les zones habitades antigament per jueus als Països Catalans. El nom prové de l'hebreu Qahal, «comunitat», potser per influència del llatí callis, «pas estret entre dues parets».
 
-**Medina**: Vol dir "ciutat il·luminada", allí roman la tomba del profeta *Muhamad*, Mahoma. És la segona ciutat santa després de la *Meca*. 
+- **Medina**: Vol dir "ciutat il·luminada", allí roman la tomba del profeta *Muhamad*, Mahoma. És la segona ciutat santa després de la *Meca*. 
 
-**Arc de ferradura**: L'arc de ferradura o arc ultrapassat és el que té una obertura que ultrapassa la mitjana circumferència amb el centre situat per sobre de la línia d'arrencada. És més obert que l'islàmic i amb l'extradós vertical sobre la línia d'arrencada, sostingut per columnes amb grans àbacs i capitells d'imitació coríntia.
+- **Arc de ferradura**: L'arc de ferradura o arc ultrapassat és el que té una obertura que ultrapassa la mitjana circumferència amb el centre situat per sobre de la línia d'arrencada. És més obert que l'islàmic i amb l'extradós vertical sobre la línia d'arrencada, sostingut per columnes amb grans àbacs i capitells d'imitació coríntia.
 
-**Sarq Al-Andalus**: Xarq al-Àndalus (de l'àrab, Xarq al-Andalus, literalment "l'Orient de l'Àndalus") és el nom que rebia la regió oriental de l'Àndalus durant el domini musulmà. Incloïa el territori comprès aproximadament entre el cap de Gata a Almeria i ath-Thaghr al-Alà o Frontera Superior, que varià amb el temps fins a restar primer a l'alçada del riu Cardener i la Conca de Tremp, i després de l'Ebre; incloïa, a més, les illes Balears i Pitiüses.
+- **Sarq Al-Andalus**: Xarq al-Àndalus (de l'àrab, Xarq al-Andalus, literalment "l'Orient de l'Àndalus") és el nom que rebia la regió oriental de l'Àndalus durant el domini musulmà. Incloïa el territori comprès aproximadament entre el cap de Gata a Almeria i ath-Thaghr al-Alà o Frontera Superior, que varià amb el temps fins a restar primer a l'alçada del riu Cardener i la Conca de Tremp, i després de l'Ebre; incloïa, a més, les illes Balears i Pitiüses.
 
 **Cadí**: Un cadi (de l'àrab - qāḍin) és, en el món musulmà, un jutge que aplica la xaria, la llei religiosa islàmica; en conseqüència els cadis tenen jurisdicció sobre aquells temes legals que afecten la xaria i exerceixen funcions civils, judicials i religioses. En aquest sentit, el cadi és un jutge de pau i un notari que regula certs actes de la vida quotidiana: casaments, divorcis, repudis, successions, herències, etc. El cadi rep aquest nom perquè té el poder de jurisdicció o qada. Sota el règim dels beys, aquest càrrec s'anomenà caicaman. Cadi es troba a l'origen del mot "alcalde" (al-qāḍī).
 
-**Almodí**: Un almodí (de l'àrab al-mudí, mesura de grans) en temps medievals era una mesura d'àrids que corresponia a 6 cafissos.[1] Per extensió també va acabar donant nom a l'edifici o indret on es conservaven els cereals i on eren venuts,[2] el qual també era conegut com a alfòndec.[1] També va denominar l'impost de l'almodinatge que gravava la importació i venda de cereals.
+- **Almodí**: Un almodí (de l'àrab al-mudí, mesura de grans) en temps medievals era una mesura d'àrids que corresponia a 6 cafissos.[1] Per extensió també va acabar donant nom a l'edifici o indret on es conservaven els cereals i on eren venuts,[2] el qual també era conegut com a alfòndec.[1] També va denominar l'impost de l'almodinatge que gravava la importació i venda de cereals.
 
-**Raval**: Raval és un arabisme que vol dir un suburbi o un barri extramurs. Prové de l'àrab Rabad (plural arbad) i fa referència a un barri de població (medina) situat als afores d'aquesta. Aquesta paraula va originar el català "raval" i el castellà "arrabal".
+- **Raval**: Raval és un arabisme que vol dir un suburbi o un barri extramurs. Prové de l'àrab Rabad (plural arbad) i fa referència a un barri de població (medina) situat als afores d'aquesta. Aquesta paraula va originar el català "raval" i el castellà "arrabal".
 
-**Sínia**: Una sínia o sénia és una màquina d'elevar aigua. Consisteix bàsicament en una roda vertical que és accionada per un animal o bé per la força del corrent d'aigua o fins i tot del vent. Normalment s'utilitzava en els regadius tradicionals i per l'abastiment d'aigua, actualment s'han substituït per bombes i altres procediments.
+- **Sínia**: Una sínia o sénia és una màquina d'elevar aigua. Consisteix bàsicament en una roda vertical que és accionada per un animal o bé per la força del corrent d'aigua o fins i tot del vent. Normalment s'utilitzava en els regadius tradicionals i per l'abastiment d'aigua, actualment s'han substituït per bombes i altres procediments.
 
 # Comparació de conceptes
 
@@ -59,6 +58,4 @@ La **Batalla de Poitiers** va ser lliurada entre el Regne d'Anglaterra i el Regn
 **Divisió en regnes de Taifes**: Les taifes van aparèixer com a conseqüència de la fitna o guerra civil que es va desencadenar pel tron entre els partidaris de l'últim califa legítim Hixam III, i els successors del seu primer ministre o hajib Almansor. En el rerefons també hi havia problemes amb l'angoixant pressió fiscal necessària per a finançar el cost dels esforços bèl·lics. La divisió es va reproduir en diverses ocasions, creant-se més taifes. També se succeïren diferents invasions des del nord d'Àfrica, com la dels almoràvits (1090-1102), els almohades (1145-1146) i els benimerins (1224). Aquest debilitament progressiu va provocar que, a mitjans del segle XIII, l'al-Àndalus quedara reduït al regne nassarí de Granada, que no va capitular fins al 2 de gener de 1492, data oficial en què es posa fi a l'anomenada Reconquesta. 
 
 
-=======
->>>>>>> 3b7cfc7d49e23aba20114f118eb3c4779b15ee25
 
