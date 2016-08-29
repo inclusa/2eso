@@ -42,7 +42,7 @@ Resultat: [Unitat 1](unit_01/md/2eso_medi_ud1_.pdf)
 
 - [ ] Crear mapa mental per ajudar a analitzar i estructurar el contingut
 
-- [ ] Crear un vocabulari
+- [X] Crear un vocabulari
 
 - [ ] Fer presentació amb els continguts per memoritzar
 
