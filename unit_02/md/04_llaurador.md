@@ -13,6 +13,8 @@
 - Altres
 
 
+\newpage
+
 # Sistemes de regatge
 
 - Augmenten la productivitat

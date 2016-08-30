@@ -1,3 +1,5 @@
+\newpage
+
 # Expansió
 
 ## Feblesa de la monarquia visigoda
@@ -6,13 +8,14 @@
 - Empobriment general de l'economia, empobriment de la població
 - Hi havia una **monarquia hereditària**, però els defensors de la **monarquia electiva** demanen ajuda al bovernador musulmà de Tunez.
 
-# Expansió /2
+\newpage
 
 ## Conquesta militar
 
 - 711 entren els musulmans a la Península u es reus cristians queden reclosos a les muntanyes cantàbriques.
 
-# Expansió /3
+
+\newpage
 
 ## Integració d'Al-Andalus a l'Imperi islàmic
 

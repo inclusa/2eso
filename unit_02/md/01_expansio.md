@@ -1,3 +1,5 @@
+\newpage
+
 # Expansió de l'Islam
 
 ## Motivació
@@ -10,6 +12,9 @@ Moguts pel desig de difondre lla seua nova religió, els musulmans van aprofitar
 - Segle VIII: Assegten fins a Constantinoble, però no van poder conquistar-la.
 - Segle IX: S'expandeixen per Sud d'Egipte i centre l'Itàlia.
 
+
+\newpage
+
 # Organització
 
 ## Etapes
@@ -18,6 +23,8 @@ Moguts pel desig de difondre lla seua nova religió, els musulmans van aprofitar
 - **Disnastia omeia** (661-750): Instal·lats a Damasc, gran expansió per la península Ibèrica.
 - **Dinastia abbassida** (750-1258): Van derrotar els omeies i instal·len la capital a Bagdad.
 - **Turcs**: En 1453 van conquistar Constantinoble.
+
+\newpage
 
 # Explendor econòmica i cultural
 

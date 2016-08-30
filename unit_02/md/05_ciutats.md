@@ -1,3 +1,5 @@
+\newpage
+
 # Ciutats d'Al-Andalus
 
 Disposaven d'una societat urbana, amb grans ciutats envoltades de muralles.

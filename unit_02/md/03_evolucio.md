@@ -14,6 +14,8 @@
 - Impostos: (paries) per obtenir la pau, sobre la producció agrícola
 - Burocràcia
 
+\newpage
+
 # Administració de l'Estat d'Al-Andalus
 
 - Dividit en 21 províncies o cores

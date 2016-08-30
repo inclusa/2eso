@@ -1,3 +1,5 @@
+\newpage
+
 # Introducció
 
 - Segle VII: Els mulusmans iniciarn un procés d'expació i conquistaren un gra imperi.
