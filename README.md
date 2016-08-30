@@ -17,6 +17,10 @@ Resultat: [Unitat 1](unit_01/md/2eso_medi_ud1.pdf)
 
 Resultat: [Unitat 1](unit_01/md/2eso_medi_ud1_.pdf)
 
+## Generar arxius pdf mitjançant template LaTeX
+
+Utilitzem `generator.sh` disponible a la carpeta `generador`
+
 ## Pla de treball Unitat 1
 
 - [X] Crear codi font a partir de continguts en [Markdown](http://joedicastro.com/pages/markdown.html)
