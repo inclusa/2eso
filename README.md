@@ -21,6 +21,9 @@ Resultat: [Unitat 1](unit_01/md/2eso_medi_ud1_.pdf)
 
 Utilitzem `generator.sh` disponible a la carpeta `generador`
 
+
+# Geografia i Història
+
 ## Pla de treball Unitat 1
 
 - [X] Crear codi font a partir de continguts en [Markdown](http://joedicastro.com/pages/markdown.html)
@@ -50,3 +53,14 @@ Utilitzem `generator.sh` disponible a la carpeta `generador`
 
 - [ ] Fer presentació amb els continguts per memoritzar
 
+# Física i Química
+
+## Unitat 1
+
+- [X] Crear codi font a partir dels continguts, cal fer una anàlisi del tema
+
+- [ ] Crear mapa mental per ajudar a analitzar i estructurar el contingut
+
+-  X] Crear un vocabulari
+
+- [X] Generar presentació en PDF a partir de codi font mitjançant [Pandoc](http://pandoc.org/) i [Beamer](https://bitbucket.org/rivanvx/)
