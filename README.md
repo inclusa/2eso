@@ -61,6 +61,6 @@ Utilitzem `generator.sh` disponible a la carpeta `generador`
 
 - [ ] Crear mapa mental per ajudar a analitzar i estructurar el contingut
 
--  X] Crear un vocabulari
+- [X] Crear un vocabulari
 
 - [X] Generar presentació en PDF a partir de codi font mitjançant [Pandoc](http://pandoc.org/) i [Beamer](https://bitbucket.org/rivanvx/)
