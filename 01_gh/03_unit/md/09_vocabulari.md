@@ -18,15 +18,9 @@
 
 **Torneig**: És una competició cavalleresca basada en baralles “simulades” de l'Edat Mitjana i el Renaixement (segles XII al XVI)
 
-**Mainada**: Persones súbdites del feu foren cavallers o no.
+**Mainada**: Tropes. Persones súbdites del feu foren cavallers o no.
 
 Font: Viquipèdia
 
-# Comparació de conceptes
-
-|Concepte|Explicació|
-|:---|:---|
-|Califa||
-|Emir||
 
 
