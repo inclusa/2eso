@@ -4,9 +4,9 @@
 
 # 1. Les ciències física i química
 
-La **química** estudia com està constituida pla matèria i els canvis que al transformen en una materèria diferent.
+La **química** estudia com està constituida la matèria i els canvis que al transformen en una materèria diferent.
 
-La **química** estudia els canvis que sofreix la mateia que no la transformen en una matèria diferent.
+La **física** estudia els canvis que sofreix la mateia que no la transformen en una matèria diferent.
 
 # 2. La matèria i les seues propietats
 
