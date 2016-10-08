@@ -22,5 +22,18 @@
 
 Font: Viquipèdia
 
+\newpage
 
+# Comparació de conceptes
+
+|Concepte|Explicació|
+|:---|:---|
+|Vassall|Eren nobles. Es comprometia a acomplir determinades servidumbres, principalmet de recolzaent polític i militar rebent com a contraprestació un benefici.|
+|Serf|Eren campesins. No podien abandonar el feu lliurement.|
+|Clergat regular|Sacerdot o frare que viu en convents sota les regles de determinada ordre.|
+|Clergat secular|Sacerdos que viu en el món, entre el poble i la comunitat de religiosos.|
+|Agricultura de subsistència|Mode d'agricultura en el qual una part de la terra codueix sols una vegada al any el suficient peralimentar la familia que treballa en ella.|
+|Agricultura de mercat|Forma d'agricultura destinada a la venda i l'autoabastiment és un aspecte secundari.|
+|Rotació bienal|sistema de cultiu propi de l'Europa Atlàntica durant l'Edat Mitjana. Es basava en la següent successió: en el camp de cultiu d'un cereal d'hivern el primer any, un cereal de primavera el segon any i un tercer any de guaret.|
+|Rotació trienal|era un sistema de cultiu propi de l'Europa Atlàntica durant l'Edat Mitjana. Es basava en la següent successió: en el camp de cultiu d'un cereal d'hivern el primer any, un cereal de primavera el segon any i un tercer any de guaret.|
 

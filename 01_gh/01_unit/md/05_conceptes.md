@@ -26,7 +26,9 @@ Font: Viquipèdia
 
 |Concepte|Explicació|
 |:---|:---|
-|Califa||
-|Emir||
+|Califa|
+Càrrec de successor i delegat del profeta Mahoma en la direcció de la comunitat musulmana, sense la condició de profeta d'aquest. Autoritat en la comunitat de creyents d'acord al model i els precedents creats per Mahoma. Té el mateix rang que un emperador. El títol comporta una doble fucnió de lideratge polític i espiritual, el que el fa semblant al papa en l'Església Catòlica o al Dalai Lama en el budisme tibetà.
+ |
+|Emir|Títol nobiliari. Gobernador que depenia del califa de Damasc, comptava amb plens poders polítics, econòmics i administratius. També exercia el poder polític i militar.|
 
 
