@@ -18,15 +18,20 @@ La **física** estudia els canvis que sofreix la mateia que no la transformen en
 
 ### A. Propietats generals
 
-- Propietats quantitatives / qualitatives
-- Propietats extensives / intensives
-- Propietats general / específiques
+- **Propietats quantitatives**: Es valoren amb un nombre i una unitat: masa 20 g, temperatura: 18 ºC.
+- **Propietats qualitatives**: Es descriuen amb paraules: és rugosa, color roig.
+
+- **Propietats extensives**: Depenen de la grandària de l'objecte. Exemple: masa o longitud.
+- **Propietats intensives**: No depenen de la grandària. Exemple: color o densitat.
+
+- **Propietats general**: Estan presents en qualsevol matèria i poden tindre qualsevol valor, com la masa, el volum o la temperatura.
+- **Propietats específiques**: Tene un valor propi i característic per a cada tipus de matèria, això permet identificar-la. El seu valor no depén de la quantitat. Esmbles: la densitat o la duresa.
 
 
 ### B. Propietats característiques de la matèria
 
-- Densitat
-- Temperatura de fusió
+- **Densitat**: Quantitat de massa per unitat de volum.
+- Temperatura de fusió: 
 - Temperatura d'ebullició
 - Solubilitat en aigua
 - Duresa
