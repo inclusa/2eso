@@ -61,7 +61,7 @@ En los **textos narrativos** es indispensable la prensencia de un **narrador**, 
 - **Espacio**: real o imaginoari.
 - **Historia**: conjunto de hechos.
 
-El **diario personal** es una **narración autobiográfica** que recoge **acontecimientos** de un periodo de la vida de una persona, **ordenador cronológicamente**, y los **estados d ánimo** y las **reflexiones** que provocan.
+El **diario personal** es una **narración autobiográfica** que recoge **acontecimientos** de un período de la vida de una persona, **ordenado cronológicamente**, y los **estados de ánimo** y las **reflexiones** que provocan.
 
 \newpage
 
@@ -183,7 +183,7 @@ Según la intención del emisor los enuncioados pueden ser:
 
 El **texto** es la **unidad máxima** de comuniación que tranmite un **mesaje** con sentido completo.
 
-El **enunciado** es **unidad mínima** de comuniacción con sentido completo.
+El **enunciado** es **unidad mínima** de comunicación con sentido completo.
 
 \newpage
 
@@ -217,6 +217,6 @@ Procedimientos gramaticales que otorgan cohesión a los textos:
 - Empleo de **pronombres** o **adverbios**.
 - **Repetición** de las palabras.
 - Empleo de **sinónimos** y **antónimos**.
-- Utilización de palabras de la **misma familia léxica** o de un determinado **ampo semántico** o asociativo.
+- Utilización de palabras de la **misma familia léxica** o de un determinado **campo semántico** o asociativo.
 
 
