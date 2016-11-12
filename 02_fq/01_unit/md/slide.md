@@ -19,13 +19,13 @@ Aquesta obra està subjecta a una llicència de <a rel="license" href="http://cr
 
 ## 1. Les ciències física i química
 
-La **química** estudia com està constituida la matèria i els canvis que al transformen en una materèria diferent.
+La **química** estudia com està constituïda la matèria i els canvis que la **transformen** en una materèria **diferent**.
 
-La **física** estudia els canvis que sofreix la mateia que no la transformen en una matèria diferent.
+La **física** estudia els canvis que sofreix la matèria que **NO** la transformen en una matèria diferent.
 
 ## 2. La matèria i les seues propietats
 
-**Matèria** és tot el que ocupa un lloc en l'espai i té masa.
+**Matèria** és tot el que ocupa un **lloc** en l'espai i té **masa**.
 
 ### 2.1. Les propietats de la matèria
 
@@ -37,48 +37,48 @@ La **física** estudia els canvis que sofreix la mateia que no la transformen en
 
 ##### a. Quantitatives / Qualitatives
 
-- **Propietats quantitatives**: Es valoren amb un nombre i una unitat: masa 20 g, temperatura: 18 ºC.
-- **Propietats qualitatives**: Es descriuen amb paraules: és rugosa, color roig.
+- **Propietats quantitatives**: Es valoren amb un **nombre** i una **unitat**: masa 20 g, temperatura: 18 ºC.
+- **Propietats qualitatives**: Es descriuen amb **categories**, paraules: és rugosa, color roig.
 
 ##### b. Extensives / Intensives
 
-- **Propietats extensives**: Depenen de la grandària de l'objecte. Exemple: masa o longitud.
-- **Propietats intensives**: No depenen de la grandària. Exemple: color o densitat.
+- **Propietats extensives**: Depenen de la **grandària** de l'objecte. Exemple: masa o longitud.
+- **Propietats intensives**: **NO** depenen de la **grandària**. Exemple: color o densitat.
 
 ##### c. Generals / Específiques
 
-- **Propietats general**: Estan presents en qualsevol matèria i poden tindre qualsevol valor, com la masa, el volum o la temperatura.
-- **Propietats específiques**: Tene un valor propi i característic per a cada tipus de matèria, això permet identificar-la. El seu valor no depén de la quantitat. Esmbles: la densitat o la duresa.
+- **Propietats general**: Estan **presents en qualsevol matèria** i poden tindre qualsevol **valor**, com la masa, el volum o la temperatura.
+- **Propietats específiques**: Tene un **valor propi** i **característic** per a cada tipus de matèria, això permet identificar-la. El seu valor no depén de la quantitat. Esmbles: la densitat o la duresa.
 
 
 #### B. Propietats característiques de la matèria
 
-- **Densitat**: Quantitat de massa per unitat de volum.
+- **Densitat**: Quantitat de **massa** per unitat de **volum**.
 
-- **Temperatura de fusió**: Temperatura a què un sòlid es converteix en líquid.
+- **Temperatura de fusió**: Temperatura a què un **sòlid** es converteix en **líquid**.
 
-- **Temperatura d'ebullició**: Temperatura a què bull un líquid.
+- **Temperatura d'ebullició**: Temperatura a què **bull** un líquid.
 
-- **Solubilitat en aigua**: Quantitat de substància que es pot disoldre en 100 g d'aigua.
+- **Solubilitat en aigua**: Quantitat de substància que es pot **disoldre** en 100 g d'aigua.
 
-- **Duresa**: Resistència a ser ratllat.
+- **Duresa**: **Resistència** a ser ratllat.
 
-- **Conductivitat tèrmica**: Capacitat d'un material per propagar calor.
+- **Conductivitat tèrmica**: Capacitat d'un material per **propagar calor**.
 
-- **Conductivitat elèctrica**: Capacitat d'un material per transmetre corrent elèctric.
+- **Conductivitat elèctrica**: Capacitat d'un material per **transmetre corrent elèctric**.
 
 
 \newpage
 
 ## 3. Mesura
 
-**Magnitud** és qualsevol propietat de la matèria que s pot mesurar, és a dir, que es pot expressar amb un nombre i una unitat.
+**Magnitud** és qualsevol propietat de la matèria que es pot mesurar, és a dir, que es pot expressar amb un nombre i una unitat.
 
 
-**Unitat** és una quantitat d'una magnitud que prenem com a referència per mesurar aquesta magnitud.
+**Unitat** és una quantitat d'una magnitud que prenem com a **referència** per mesurar aquesta magnitud.
 
 
-**Mesurar** una magnitud és comparar-la amb una unitat per veure quantes vegades la conté.
+**Mesurar** una magnitud és **comparar-la** amb una unitat per veure quantes vegades la conté.
 
 
 ### 3.1. Sistema internacional d'unitats
@@ -100,11 +100,11 @@ Estudiar les operacions amb potències.
 
 ### 3.3. Magnitud superfície
 
-El **valor d'una superfície** s'obté multiplicant dues longituds, qun han d'expressar-se en la mateixa unitat.
+El **valor d'una superfície** s'obté multiplicant **dues** longituds, qun han d'expressar-se en la mateixa unitat.
 
 ### 3.4. Magnitud volum
 
-El **valor d'un volum** s'obté multiplicant tres longituds, que han d'expressar-se en la mateixa unitat.
+El **valor d'un volum** s'obté multiplicant **tres** longituds, que han d'expressar-se en la mateixa unitat.
 
 Relació entre les unitats de volum i de capacitat: **1 dm^3^** = **1 l**.
 
@@ -139,13 +139,13 @@ El **volum** d'un cos és una mesura de l'espai que ocupa.
 
 S'utilitzen instruments com la **proveta**.
 
-Quan aboquem un líquid a un tub estre, l'adherència a les partes fa que l'¡extrem forme un acorba anomenada **menisc**. En la major part dels casos està corbat cap avall.
+Quan aboquem un líquid a un tub estre, l'adherència a les partes fa que l'extrem forme un acorba anomenada **menisc**. En la major part dels casos està corbat cap avall.
 
 \newpage
 
 ## 6. Mesures indirecte
 
-**Mesures indirectes** són aquelles que s'obtenen realitzan un aoperació matemàtiqca sobre altres mesures directes.
+**Mesures indirectes** són aquelles que s'obtenen realitzan una **operació** matemàtiqca sobre altres mesures directes.
 
 ### 6.1. Mesura de la densitat
 
