@@ -36,7 +36,7 @@ Utilitzem `generator.sh` disponible a la carpeta `generador`
 
 - [X] Crear codi font a partir dels continguts, cal fer una anàlisi del tema
 
-- [ ] Crear mapa mental per ajudar a analitzar i estructurar el contingut
+- [X] Crear mapa mental per ajudar a analitzar i estructurar el contingut
 
 - [X] Crear un vocabulari
 
@@ -64,3 +64,11 @@ Utilitzem `generator.sh` disponible a la carpeta `generador`
 - [X] Crear un vocabulari
 
 - [X] Generar presentació en PDF a partir de codi font mitjançant [Pandoc](http://pandoc.org/) i [Beamer](https://bitbucket.org/rivanvx/)
+
+# Anglés
+
+- [X] 33 % Full de verbs irregulars
+
+- [ ] 66 % Full de verbs irregulars
+
+- [ ] 99 % Full de verbs irregulars
