@@ -73,5 +73,3 @@ Utilitzem `generator.sh` disponible a la carpeta `generador`
 
 - [ ] 99 % Full de verbs irregulars
 
-Definició
-: Explicació de la paraula
