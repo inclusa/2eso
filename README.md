@@ -45,7 +45,7 @@ Utilitzem `generator.sh` disponible a la carpeta `generador`
 
 ## Pla de treball Unitat 3
 
-- [ ] 25 % Crear codi font a partir dels continguts, cal fer una anàlisi del tema
+- [X] 25 % Crear codi font a partir dels continguts, cal fer una anàlisi del tema
 
 - [ ] Crear mapa mental per ajudar a analitzar i estructurar el contingut
 
@@ -69,7 +69,7 @@ Utilitzem `generator.sh` disponible a la carpeta `generador`
 
 - [X] 33 % Full de verbs irregulars
 
-- [ ] 66 % Full de verbs irregulars
+- [X] 66 % Full de verbs irregulars
 
-- [ ] 99 % Full de verbs irregulars
+- [X] 99 % Full de verbs irregulars
 
