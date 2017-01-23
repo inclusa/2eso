@@ -13,7 +13,7 @@
 ## Una institució rica i influent
 
 - Bona part del clergat gaudia d'un **nivell de vida alt** i es trobava entre els privilegiats de la societat.
-- L'Església era propietària de terres i edificis que proporcionaven i**rendes**.
+- L'Església era propietària de terres i edificis que proporcionaven **rendes**.
 - Obtenien rendes feudals, **delme** i donacions.
 - **Funció**: assistència als probres, cura dels malalts i ensenyament.
 

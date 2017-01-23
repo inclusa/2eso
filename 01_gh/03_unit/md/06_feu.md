@@ -4,7 +4,7 @@
 
 El feu **no** era una propietat privada, sino **vinculada**. No es podia comprar ni vendre però sí explotar.
 
-## Els senyors vivien ede les rendes senyorials
+## Els senyors vivien de les rendes senyorials
 
 - **Senyoriu territorial**: terres que dominava un senyor.
 - **Rendes senyorials**: pagament dels llauradors per cultivar les terres.
