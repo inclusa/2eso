@@ -124,16 +124,11 @@ Un **editor de partitures** és un software que permet escriure música. Una veg
 
 ## 11. Tipus d'embocadura
 
-1. Flauta travessera
-2. Oboé
-3. Corn
-4. Fagot
-5. Clarinet
-6. Saxòfon
-7. Trompa
-8. Trompeta
-9. Trombó
-10. Tuba
+1. **Instruments de vent de metall** la vibració es produeix directament del llavi de l'instrumentista sobre l'embocadura.
+2. **Instruments de vent de fusta**:
+- Embocadura de bisell: és un orifici obert en el tub. Flauta travessera.
+- Embocadura de llengüeta: és una làmina de canya muntada sobre l'embocadura de l'instrument, que fa vibrar la columna d'aire a l'interior del tub.
+
 
 \newpage
 

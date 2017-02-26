@@ -1,0 +1,1223 @@
+= Anglés 2 ESO =
+
+<div style="text-align:center;">Irregular verbs <nowiki>#1</nowiki></div>
+
+<div style="text-align:center;">[https://llagosti.wordpress.com/ https://llagosti.wordpress.com/]</div>
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|-
+! style="background-color:transparent;border:none;padding:0cm;" | Infinitive
+! style="border:none;padding:0cm;" | Past simple
+! style="border:none;padding:0cm;" | Part participle
+! style="border:none;padding:0cm;" | Translation
+|-
+|}
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+|| be
+|| was, were
+|| been
+|| ser, estar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | be
+| style="color:#999999;" | was, were
+| style="color:#999999;" | been
+| style="color:#999999;" | ser, estar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| beat
+!| beat
+!| beaten
+!| derrotar, colpejar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | beat
+| style="color:#999999;" | beat
+| style="color:#999999;" | beaten
+| style="color:#999999;" | derrotar, colpejar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| become
+!| became
+!| become
+!| convertir-se en
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | become
+| style="color:#999999;" | became
+| style="color:#999999;" | become
+| style="color:#999999;" | convertir-se en
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| begin
+!| began
+!| begun
+!| començar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | begin
+| style="color:#999999;" | began
+| style="color:#999999;" | begun
+| style="color:#999999;" | començar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| bite
+!| bit
+!| bitten
+!| mossegar, picar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | bite
+| style="color:#999999;" | bit
+| style="color:#999999;" | bitten
+| style="color:#999999;" | mossegar, picar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| break
+!| broke
+!| broken
+!| trencar-se
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | break
+| style="color:#999999;" | broke
+| style="color:#999999;" | broken
+| style="color:#999999;" | trencar-se
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| bring
+!| brought
+!| brought
+!| portar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | bring
+| style="color:#999999;" | brought
+| style="color:#999999;" | brought
+| style="color:#999999;" | portar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| build
+!| built
+!| built
+!| construir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| build
+!| built
+!| built
+!| construir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| buy
+!| bought
+!| bought
+!| comprar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| buy
+!| bought
+!| bought
+!| comprar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| catch
+!| caught
+!| caught
+!| atrapar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| catch
+!| caught
+!| caught
+!| atrapar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| choose
+!| chose
+!| chose
+!| elegir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| choose
+!| chose
+!| chose
+!| elegir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| come
+!| came
+!| come
+!| venir
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | come
+| style="color:#999999;" | came
+| style="color:#999999;" | come
+| style="color:#999999;" | venir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| cost
+!| cost
+!| cost
+!| costar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| cost
+!| cost
+!| cost
+!| costar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| cut
+!| cut
+!| cut
+!| cortar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| cut
+!| cut
+!| cut
+!| cortar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| do
+!| did
+!| done
+!| fer
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| do
+!| did
+!| done
+!| fer
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| draw
+!| drew
+!| drawn
+!| dibuixar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| draw
+!| drew
+!| drawn
+!| dibuixar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| dream
+!| dreamt, dreamed
+!| dreamt, dreamed
+!| somiar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| dream
+!| dreamt, dreamed
+!| dreamt, dreamed
+!| somiar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| drink
+!| drank
+!| drunk
+!| beure
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| drink
+!| drank
+!| drunk
+!| beure
+
+
+|-
+|}
+= Anglés 2 ESO =
+
+<div style="text-align:center;">Irregular verbs <nowiki>#2</nowiki></div>
+
+<div style="text-align:center;">[https://llagosti.wordpress.com/ https://llagosti.wordpress.com/]</div>
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|-
+! style="background-color:transparent;border:none;padding:0cm;" | Infinitive
+! style="border:none;padding:0cm;" | Past simple
+! style="border:none;padding:0cm;" | Part participle
+! style="border:none;padding:0cm;" | Translation
+|-
+|}
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| drive
+!| drove
+!| driven
+!| conduir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| drive
+!| drove
+!| driven
+!| conduir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| eat
+!| ate
+!| eaten
+!| menjar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| eat
+!| ate
+!| eaten
+!| menjar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| fall
+!| fell
+!| fallen
+!| caure's
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| fall
+!| fell
+!| fallen
+!| caure's
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| feed
+!| fed
+!| fed
+!| alimentar-se
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| feed
+!| fed
+!| fed
+!| alimentar-se
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| feel
+!| felt
+!| felt
+!| sentir-se
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| feel
+!| felt
+!| felt
+!| sentir-se
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| fight
+!| fought
+!| fought
+!| lluïtar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| fight
+!| fought
+!| fought
+!| lluïtar
+|- style="border:none;padding:0cm;"
+|| find
+|| found
+|| found
+|| buscar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| find
+!| found
+!| found
+!| buscar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| fly
+!| flew
+!| flown
+!| volar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| fly
+!| flew
+!| flown
+!| volar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="background-color:#b2b2b2;border:none;padding:0cm;"
+!| forget
+!| forgot
+!| forgotten
+!| olvidar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| forget
+!| forgot
+!| forgotten
+!| Olvidar
+|- style="background-color:transparent;border:none;padding:0cm;"
+| style="color:#000000;" | get
+| style="color:#000000;" | got
+| style="color:#000000;" | got
+| style="color:#000000;" | aconseguir
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | get
+| style="color:#999999;" | got
+| style="color:#999999;" | got
+| style="color:#999999;" | aconseguir
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | give
+| style="color:#000000;" | gave
+| style="color:#000000;" | given
+| style="color:#000000;" | donar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | give
+| style="color:#999999;" | gave
+| style="color:#999999;" | given
+| style="color:#999999;" | onar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | go
+| style="color:#000000;" | went
+| style="color:#000000;" | gone
+| style="color:#000000;" | anar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | go
+| style="color:#999999;" | went
+| style="color:#999999;" | gone
+| style="color:#999999;" | anar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | grow
+| style="color:#000000;" | grew
+| style="color:#000000;" | grown
+| style="color:#000000;" | créixer
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | grow
+| style="color:#999999;" | grew
+| style="color:#999999;" | grown
+| style="color:#999999;" | créixer
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="background-color:transparent;border:none;padding:0cm;"
+| style="color:#000000;" | have
+| style="color:#000000;" | had
+| style="color:#000000;" | had
+| style="color:#000000;" | haver, tenir
+|-
+| style="border:none;padding:0cm;color:#999999;" | have
+| style="border:none;padding:0cm;color:#999999;" | had
+| style="border:none;padding:0cm;color:#999999;" | had
+| style="border:none;padding:0cm;color:#999999;" | haver, tenir
+|-
+| style="border:none;padding:0cm;color:#000000;" | hear
+| style="border:none;padding:0cm;color:#000000;" | heard
+| style="border:none;padding:0cm;color:#000000;" | heard
+| style="border:none;padding:0cm;color:#000000;" | sentir
+|-
+| style="border:none;padding:0cm;color:#999999;" | hear
+| style="border:none;padding:0cm;color:#999999;" | heard
+| style="border:none;padding:0cm;color:#999999;" | heard
+| style="border:none;padding:0cm;color:#999999;" | sentir
+|-
+| style="border:none;padding:0cm;color:#000000;" | hide
+| style="border:none;padding:0cm;color:#000000;" | hide
+| style="border:none;padding:0cm;color:#000000;" | hidden
+| style="border:none;padding:0cm;color:#000000;" | amagar
+|-
+| style="border:none;padding:0cm;color:#999999;" | hide
+| style="border:none;padding:0cm;color:#999999;" | hide
+| style="border:none;padding:0cm;color:#999999;" | hidden
+| style="border:none;padding:0cm;color:#999999;" | amagar
+|-
+| style="border:none;padding:0cm;color:#000000;" | hit
+| style="border:none;padding:0cm;color:#000000;" | hit
+| style="border:none;padding:0cm;color:#000000;" | hit
+| style="border:none;padding:0cm;color:#000000;" | colpejar
+|-
+| style="border:none;padding:0cm;color:#999999;" | hit
+| style="border:none;padding:0cm;color:#999999;" | hit
+| style="border:none;padding:0cm;color:#999999;" | hit
+| style="border:none;padding:0cm;color:#999999;" | colpejar
+|-
+| style="border:none;padding:0cm;color:#000000;" | hold
+| style="border:none;padding:0cm;color:#000000;" | held
+| style="border:none;padding:0cm;color:#000000;" | held
+| style="border:none;padding:0cm;color:#000000;" | subjectar
+|-
+| style="border:none;padding:0cm;color:#999999;" | hold
+| style="border:none;padding:0cm;color:#999999;" | held
+| style="border:none;padding:0cm;color:#999999;" | held
+| style="border:none;padding:0cm;color:#999999;" | subjectar
+
+
+|-
+|}
+= Anglés 2 ESO =
+
+<div style="text-align:center;">Irregular verbs <nowiki>#3</nowiki></div>
+
+<div style="text-align:center;">[https://llagosti.wordpress.com/ https://llagosti.wordpress.com/]</div>
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|-
+! style="background-color:transparent;border:none;padding:0cm;" | Infinitive
+! style="border:none;padding:0cm;" | Past simple
+! style="border:none;padding:0cm;" | Part participle
+! style="border:none;padding:0cm;" | Translation
+|-
+|}
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| hurt
+!| hurt
+!| hurt
+!| doldre, fer mal
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| hurt
+!| hurt
+!| hurt
+!| doldre, fer mal
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| keep
+!| kept
+!| kept
+!| mantenir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| keep
+!| kept
+!| kept
+!| mantenir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| know
+!| knew
+!| known
+!| conèixer
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+!| know
+!| knew
+!| known
+!| conèixer
+|- style="background-color:transparent;border:none;padding:0cm;"
+| style="color:#000000;" | learn
+| style="color:#000000;" | learnt, learned
+| style="color:#000000;" | learnt, learned
+| style="color:#000000;" | aprendre
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | learn
+| style="color:#999999;" | learnt, learned
+| style="color:#999999;" | learnt, learned
+| style="color:#999999;" | aprendre
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | leave
+| style="color:#000000;" | left
+| style="color:#000000;" | left
+| style="color:#000000;" | deixar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | leave
+| style="color:#999999;" | left
+| style="color:#999999;" | left
+| style="color:#999999;" | deixar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | lend
+| style="color:#000000;" | lent
+| style="color:#000000;" | lent
+| style="color:#000000;" | prestar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | lend
+| style="color:#999999;" | lent
+| style="color:#999999;" | lent
+| style="color:#999999;" | prestar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | let
+| style="color:#000000;" | let
+| style="color:#000000;" | let
+| style="color:#000000;" | autoritzar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | let
+| style="color:#999999;" | let
+| style="color:#999999;" | let
+| style="color:#999999;" | autoritzar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="background-color:transparent;border:none;padding:0cm;"
+| style="color:#000000;" | lose
+| style="color:#000000;" | lost
+| style="color:#000000;" | lost
+| style="color:#000000;" | perdre
+|-
+| style="border:none;padding:0cm;color:#999999;" | lose
+| style="border:none;padding:0cm;color:#999999;" | lost
+| style="border:none;padding:0cm;color:#999999;" | lost
+| style="border:none;padding:0cm;color:#999999;" | perdre
+|-
+| style="border:none;padding:0cm;color:#000000;" | make
+| style="border:none;padding:0cm;color:#000000;" | made
+| style="border:none;padding:0cm;color:#000000;" | made
+| style="border:none;padding:0cm;color:#000000;" | fer
+|-
+| style="border:none;padding:0cm;color:#999999;" | make
+| style="border:none;padding:0cm;color:#999999;" | made
+| style="border:none;padding:0cm;color:#999999;" | made
+| style="border:none;padding:0cm;color:#999999;" | fer
+|-
+| style="border:none;padding:0cm;color:#000000;" | mean
+| style="border:none;padding:0cm;color:#000000;" | meant
+| style="border:none;padding:0cm;color:#000000;" | meant
+| style="border:none;padding:0cm;color:#000000;" | significar
+|-
+| style="border:none;padding:0cm;color:#999999;" | mean
+| style="border:none;padding:0cm;color:#999999;" | meant
+| style="border:none;padding:0cm;color:#999999;" | meant
+| style="border:none;padding:0cm;color:#999999;" | significar
+|-
+| style="border:none;padding:0cm;color:#000000;" | meet
+| style="border:none;padding:0cm;color:#000000;" | met
+| style="border:none;padding:0cm;color:#000000;" | met
+| style="border:none;padding:0cm;color:#000000;" | reunir
+|-
+| style="border:none;padding:0cm;color:#999999;" | meet
+| style="border:none;padding:0cm;color:#999999;" | met
+| style="border:none;padding:0cm;color:#999999;" | met
+| style="border:none;padding:0cm;color:#999999;" | reunir
+|-
+| style="border:none;padding:0cm;color:#000000;" | pay
+| style="border:none;padding:0cm;color:#000000;" | paid
+| style="border:none;padding:0cm;color:#000000;" | paid
+| style="border:none;padding:0cm;color:#000000;" | pagar
+|-
+| style="border:none;padding:0cm;color:#999999;" | pay
+| style="border:none;padding:0cm;color:#999999;" | paid
+| style="border:none;padding:0cm;color:#999999;" | paid
+| style="border:none;padding:0cm;color:#999999;" | pagar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | read
+| style="color:#000000;" | read
+| style="color:#000000;" | read
+| style="color:#000000;" | llegir
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | read
+| style="color:#999999;" | read
+| style="color:#999999;" | read
+| style="color:#999999;" | Llegir
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | ring
+| style="color:#000000;" | rang
+| style="color:#000000;" | rung
+| style="color:#000000;" | tocar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | ring
+| style="color:#999999;" | rang
+| style="color:#999999;" | rung
+| style="color:#999999;" | tocar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | run
+| style="color:#000000;" | ran
+| style="color:#000000;" | run
+| style="color:#000000;" | córrer
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | run
+| style="color:#999999;" | ran
+| style="color:#999999;" | run
+| style="color:#999999;" | córrer
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | say
+| style="color:#000000;" | said
+| style="color:#000000;" | said
+| style="color:#000000;" | dir
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | say
+| style="color:#999999;" | said
+| style="color:#999999;" | said
+| style="color:#999999;" | dir
+|- style="background-color:#999999;border:none;padding:0cm;"
+| style="color:#000000;" | see
+| style="color:#000000;" | saw
+| style="color:#000000;" | seen
+| style="color:#000000;" | veure
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | see
+| style="color:#999999;" | saw
+| style="color:#999999;" | seen
+| style="color:#999999;" | veure
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | sell
+| style="color:#000000;" | sold
+| style="color:#000000;" | sold
+| style="color:#000000;" | vendre
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | sell
+| style="color:#999999;" | sold
+| style="color:#999999;" | sold
+| style="color:#999999;" | Vendre
+
+
+|-
+|}
+= Anglés 2 ESO =
+
+<div style="text-align:center;">Irregular verbs <nowiki>#4</nowiki></div>
+
+<div style="text-align:center;">[https://llagosti.wordpress.com/ https://llagosti.wordpress.com/]</div>
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|-
+! style="background-color:transparent;border:none;padding:0cm;" | Infinitive
+! style="border:none;padding:0cm;" | Past simple
+! style="border:none;padding:0cm;" | Part participle
+! style="border:none;padding:0cm;" | Translation
+|-
+|}
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | send
+| style="color:#000000;" | sent
+| style="color:#000000;" | sent
+| style="color:#000000;" | enviar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | send
+| style="color:#999999;" | sent
+| style="color:#999999;" | sent
+| style="color:#999999;" | enviar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | shine
+| style="color:#000000;" | shone
+| style="color:#000000;" | shone
+| style="color:#000000;" | brillar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | shine
+| style="color:#999999;" | shone
+| style="color:#999999;" | shone
+| style="color:#999999;" | brillar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | shoot
+| style="color:#000000;" | shot
+| style="color:#000000;" | shot
+| style="color:#000000;" | disparar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | shoot
+| style="color:#999999;" | shot
+| style="color:#999999;" | shot
+| style="color:#999999;" | disparar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | show
+| style="color:#000000;" | showed
+| style="color:#000000;" | shown
+| style="color:#000000;" | mostrar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | show
+| style="color:#999999;" | showed
+| style="color:#999999;" | shown
+| style="color:#999999;" | mostrar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | shut
+| style="color:#000000;" | shut
+| style="color:#000000;" | shut
+| style="color:#000000;" | tancar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | shut
+| style="color:#999999;" | shut
+| style="color:#999999;" | shut
+| style="color:#999999;" | tancar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | sing
+| style="color:#000000;" | sang
+| style="color:#000000;" | sung
+| style="color:#000000;" | cantar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | sing
+| style="color:#999999;" | sang
+| style="color:#999999;" | sung
+| style="color:#999999;" | cantar
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | sit
+| style="color:#000000;" | sat
+| style="color:#000000;" | sat
+| style="color:#000000;" | seure
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | sit
+| style="color:#999999;" | sat
+| style="color:#999999;" | sat
+| style="color:#999999;" | seure
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | sleep
+| style="color:#000000;" | slept
+| style="color:#000000;" | slept
+| style="color:#000000;" | dormir
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | sleep
+| style="color:#999999;" | slept
+| style="color:#999999;" | slept
+| style="color:#999999;" | dormir
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | speak
+| style="color:#000000;" | spoke
+| style="color:#000000;" | spoken
+| style="color:#000000;" | parlar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | speak
+| style="color:#999999;" | spoke
+| style="color:#999999;" | spoken
+| style="color:#999999;" | parlar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | spell
+| style="color:#000000;" | spelt
+| style="color:#000000;" | spelt
+| style="color:#000000;" | lletrejar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | spell
+| style="color:#999999;" | spelt
+| style="color:#999999;" | spelt
+| style="color:#999999;" | lletrejar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | spend
+| style="color:#000000;" | spent
+| style="color:#000000;" | spent
+| style="color:#000000;" | gastar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | spend
+| style="color:#999999;" | spent
+| style="color:#999999;" | spent
+| style="color:#999999;" | gastar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | stand
+| style="color:#000000;" | stood
+| style="color:#000000;" | stood
+| style="color:#000000;" | estar de peu
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | stand
+| style="color:#999999;" | stood
+| style="color:#999999;" | stood
+| style="color:#999999;" | estar de peu
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | steal
+| style="color:#000000;" | stole
+| style="color:#000000;" | stolen
+| style="color:#000000;" | robar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | steal
+| style="color:#999999;" | stole
+| style="color:#999999;" | stolen
+| style="color:#999999;" | robar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | swin
+| style="color:#000000;" | swan
+| style="color:#000000;" | swun
+| style="color:#000000;" | nadar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | swin
+| style="color:#999999;" | swan
+| style="color:#999999;" | swun
+| style="color:#999999;" | nadar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | take
+| style="color:#000000;" | toke
+| style="color:#000000;" | taken
+| style="color:#000000;" | prendre
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | take
+| style="color:#999999;" | toke
+| style="color:#999999;" | taken
+| style="color:#999999;" | prendre
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | teach
+| style="color:#000000;" | taught
+| style="color:#000000;" | taught
+| style="color:#000000;" | ensenyar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | teach
+| style="color:#999999;" | taught
+| style="color:#999999;" | taught
+| style="color:#999999;" | ensenyar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | tell
+| style="color:#000000;" | told
+| style="color:#000000;" | told
+| style="color:#000000;" | dir
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | tell
+| style="color:#999999;" | told
+| style="color:#999999;" | told
+| style="color:#999999;" | dir
+
+
+|-
+|}
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | think
+| style="color:#000000;" | thought
+| style="color:#000000;" | thought
+| style="color:#000000;" | pensar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | think
+| style="color:#999999;" | thought
+| style="color:#999999;" | thought
+| style="color:#999999;" | pensar
+
+
+|-
+|}
+= Anglés 2 ESO =
+
+<div style="text-align:center;">Irregular verbs <nowiki>#5</nowiki></div>
+
+<div style="text-align:center;">[https://llagosti.wordpress.com/ https://llagosti.wordpress.com/]</div>
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|-
+! style="background-color:transparent;border:none;padding:0cm;" | Infinitive
+! style="border:none;padding:0cm;" | Past simple
+! style="border:none;padding:0cm;" | Part participle
+! style="border:none;padding:0cm;" | Translation
+|-
+|}
+
+
+
+{| style="border-spacing:0;margin:auto;width:18.602cm;"
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | throw
+| style="color:#000000;" | threw
+| style="color:#000000;" | thouhgt
+| style="color:#000000;" | tirar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | throw
+| style="color:#999999;" | threw
+| style="color:#999999;" | thouhgt
+| style="color:#999999;" | tirar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | understand
+| style="color:#000000;" | understood
+| style="color:#000000;" | understood
+| style="color:#000000;" | entendre
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | understand
+| style="color:#999999;" | understood
+| style="color:#999999;" | understood
+| style="color:#999999;" | entendre
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | wake
+| style="color:#000000;" | woke
+| style="color:#000000;" | woken
+| style="color:#000000;" | despertar-se
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | wake
+| style="color:#999999;" | woke
+| style="color:#999999;" | woken
+| style="color:#999999;" | despertar-se
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | wear
+| style="color:#000000;" | wore
+| style="color:#000000;" | worn
+| style="color:#000000;" | vestir
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | wear
+| style="color:#999999;" | wore
+| style="color:#999999;" | worn
+| style="color:#999999;" | vestir
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | win
+| style="color:#000000;" | won
+| style="color:#000000;" | won
+| style="color:#000000;" | guanyar
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | win
+| style="color:#999999;" | won
+| style="color:#999999;" | won
+| style="color:#999999;" | guanyar
+|- style="border:none;padding:0cm;"
+| style="color:#000000;" | write
+| style="color:#000000;" | wrote
+| style="color:#000000;" | written
+| style="color:#000000;" | escriure
+|- style="border:none;padding:0cm;"
+| style="color:#999999;" | write
+| style="color:#999999;" | wrote
+| style="color:#999999;" | written
+| style="color:#999999;" | escriure
+|-
+|}
+
