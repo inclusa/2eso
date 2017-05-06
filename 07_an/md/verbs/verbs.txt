@@ -1,0 +1,79 @@
+be	was, were; been; ser, estar
+beat	beat; beaten; derrotar, colpejar
+become	became; become; convertir-se en
+begin	began; begun; començar
+bite	bit; bitten; mossegar, picar
+break	broke; broken; trencar-se
+bring	brought; brought; portar
+build	built; built; construir
+buy	bought; bought; comprar
+catch	caught; caught; atrapar
+choose	chose; chose; elegir
+come	came; come; venir
+cost	cost; cost; costar
+cut	cut; cut; cortar
+do	did; done; fer
+draw	drew; drawn; dibuixar
+dream	dreamt, dreamed; dreamt, dreamed; somiar
+drink	drank; drunk; beure
+drive	drove; driven; conduir
+eat	ate; eaten; menjar
+fall	fell; fallen; caure's
+feed	fed; fed; alimentar-se
+feel	felt; felt; sentir-se
+fight	fought; fought; lluïtar
+find	found; found; buscar
+fly	flew; flown; volar
+forget	forgot; forgotten; olvidar
+get	got; got; aconseguir
+give	gave; given; donar
+go	went; gone; anar
+grow	grew; grown; créixer
+have	had; had; haver, tenir
+hear	heard; heard; sentir
+hide	hide; hidden; amagar
+hit	hit; hit; colpejar
+hold	held; held; subjectar
+hurt	hurt; hurt; doldre, fer mal
+keep	kept; kept; mantenir
+know	knew; known; conèixer
+learn	learnt, learned;learnt, learned; aprendre
+leave	left; left; deixar
+lend	lent; lent; prestar
+let	let; let; autoritzar
+lose	lost; lost; perdre
+make	made; made; fer
+mean	meant; meant; significar
+meet	met; met; reunir
+pay	paid; paid; pagar
+read	read; read; llegir
+ring	rang; rung; tocar
+run	ran; run; córrer
+say	said; said; dir
+see	saw; seen; veure
+sell	sold; sold; vendre
+send	sent; sent; enviar
+shine	shone; shone; brillar
+shoot	shot; shot; disparar
+show	showed; shown; mostrar
+shut	shut; shut; tancar
+sing	sang; sung; cantar
+sit	sat; sat; seure
+sleep	slept; slept; dormir
+speak	spoke; spoken; parlar
+spell	spelt; spelt; lletrejar
+spend	spent; spent; gastar
+stand	stood; stood; estar de peu
+steal	stole; stolen; robar
+swin	swan; swun; nadar
+take	toke; taken; prendre
+teach	taught; taught; ensenyar
+tell	told; told; dir
+think	thought; thought; pensar
+throw	threw; thouhgt; tirar
+understand	understood; understood; entendre
+wake	woke; woken; despertar-se
+wear	wore; worn; vestir
+win	won; won; guanyar
+write	wrote; written; escriure
+
