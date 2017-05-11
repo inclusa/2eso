@@ -1,0 +1,31 @@
+% 2ESO
+% Física
+%UD 3 Dinámica
+
+# Introducción #
+
+## Definiciones ##
+
+**Magnitud**: Es una **cualidad** de un cuerpo o de los cambios que experimenta que se puede medir.
+
+**Magnitud escalar**: Si una magnitud queda determinada dando su **cantidad** y su **unidad** a esa magnitud (ME).
+
+Ejemplo 1
+
+    masa = 3 kg 
+    tiempo = 3 s
+
+**Magnitudes vectoriales**: Magnitud que, para determinadas necesidades dan **cantidad**, **unidad**, **direción** y **sentido**.
+Las magnitudes vectoriales se representan por la letra en la que empieza la magnitud y encima una pequeña flecha.
+
+Todos los vectores tienen 3 elementos:
+
+- **Módulo**: es la longitud del vector.
+- **Dirección**: es la recta que lo contiene.
+- **Sentido**: viene dado por la punta de la flecha.
+
+## 1. Leyes de Newton ##
+
+Para estudiar y describir el movimiento de un cuerpo hemos utilizdo los conceptos de **posición**, **distancia**, **velocidad**. Para estudiar **dinámica** necesitaremos un nuevo concepto, el concepto de **masa** (`m`). De momento daremos una definición operacional de masa diciendo que la masa de un cuerpo es aqella magnitud escalar que viene dterminada por unos dispositivos llamados balanzas.
+
+La **dinámica** es la parte de la mecánica que estudia todos los movimientos
