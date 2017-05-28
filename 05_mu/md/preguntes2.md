@@ -1,9 +1,11 @@
 
 \newpage
 
-% Música 2 ESO
-% Preguntes i respostes
-% Tercer Trimestre
+Música 2 ESO
+
+Preguntes i respostes
+
+Tercer Trimestre
 
 # 1. Què és la notació i la fonografia?
 
@@ -53,7 +55,7 @@ Habitualment els jazzistes improvisen seguint l'esquema harmònic de cançons pr
 
 \newpage
 
-## 5. Funcions dels mitjans de comunicació
+# 5. Funcions dels mitjans de comunicació
 
 - **I**nformar
 - **E**ntretindre
@@ -202,7 +204,7 @@ Els **intervals característics** són aquells que més hi abunden o que resulte
 - Es tracta d'una música de **tradició oral**, no es conserva ni es transmet mitjançant l'escriptura.
 - És **anònima**, composta per aportacions d'un col·lectiu determinat.
 
-\ newpage
+\newpage
 
 # 17. Textures
 
